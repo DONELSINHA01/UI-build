@@ -7,17 +7,17 @@ function Content3(props) {
     return (
         <>
         <div className="cards">
-            <div className="card card1">
+            <div className="card card1" style={{width:'248px'}}>
                 <h1 style={{color:'#FE6D3F'}}>Explore Our Collections</h1>
 
             </div>
-            <div className="card card2">
-                <img src={image1} alt="" />
+            <div className="card card2" style={{width:'330px'}}>
+                <img src={image1}  alt="" />
             </div>
-            <div className="card card3">
-                <img src={image2} alt="" />
+            <div className="card card3" style={{width:'330px'}}>
+                <img src={image2}  alt="" />
             </div>
-            <div className="card card4">
+            <div className="card card4" style={{width:'330px'}}>
                 <img src={image3} alt="" />
             </div>
         </div>
