@@ -1,0 +1,23 @@
+.feature-btns{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.feature-btns button{
+    margin: 20px;
+}
+
+.Feature-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.f-card{
+    box-shadow: 0 0 10px gainsboro;
+}
