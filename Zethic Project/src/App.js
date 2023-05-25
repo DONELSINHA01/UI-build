@@ -5,6 +5,7 @@ import Content from './Components/Content';
 import Content2 from './Components/Content2';
 import Content3 from './Components/Content3';
 import Content4 from './Components/Content4';
+import Freature from './Components/Freature';
 function App() {
 
     return(
@@ -14,7 +15,7 @@ function App() {
       <Content2/>
       <Content3/>
       <Content4/>
-      
+      <Freature/>
       </div>
     );
     
